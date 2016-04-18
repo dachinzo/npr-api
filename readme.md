@@ -4,7 +4,8 @@
 
 1. Make sure you have composer installed - Installation instructions are located on the [Composer website](https://getcomposer.org/)/
 2. Run composer update to get latest vendor modules
-3. Update .env with database information
+3. Rename .env.Example to .env
+4. Update .env with database information
 
 ## Database Migration (migrate and seed database with mock data)
 
